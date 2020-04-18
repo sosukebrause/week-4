@@ -1,0 +1,13 @@
+.darkMode {
+  background-color: black;
+  color: white;
+}
+
+.lightMode {
+  background-color: whitesmoke;
+  color: black;
+}
+
+h2 {
+  color: brown;
+}
