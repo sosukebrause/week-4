@@ -19,7 +19,7 @@ window.localStorage.setItem(
     password: "898989",
   })
 );
-var response = JSON.parse(window.localStorage.getItem("user"));
+var response = JSON.parse(window.localStorage.getItem(user));
 console.log(response.username);
 
 var text = document.createElement("h1");
